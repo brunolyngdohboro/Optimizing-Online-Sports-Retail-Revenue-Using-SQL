@@ -14,8 +14,7 @@ SQL functions that I used in this project:
 - **Union functions:** These functions permit the merging of outcomes from various queries into a single result set.
 - **CTE (Common Table Expression):** This function empowers me to establish a temporary result set within a SELECT statement.
 - **Subqueries:** These represent SELECT statements executed within another SELECT statement.
-- **Window functions:** These functions empower me to conduct calculations across a group of rows.
-- 
+- **Window functions:** These functions empower me to conduct calculations across a group of rows. 
 # Analysis & Insights
 Detailed analysis and insights found on my Blog Post : [here](https://medium.com/@brunoboro9/optimizing-online-sports-retail-revenue-using-sql-0f6c7d037f8a)
 
